@@ -1,4 +1,4 @@
-# 💼 Abdulrahman Ahmed - Data Analytics Portfolio
+# 💼 Abdulrahman Basudan - Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**!  
 Here you will find projects showcasing my skills in **SQL Server, R, and Power BI**, including data cleaning, analysis, and visualization.
